@@ -1,13 +1,11 @@
-<h1 align="center">Olá 👋, eu sou Guilherme Russo</h1>
-<h3 align="center">Apaixonado por Análise e Ciência de Dados</h3>
+<h1 align="center">Olá 👋, me chamo  Guilherme Russo</h1>
+<h3 align="center">Procurando sempre se desenvolver</h3>
 
 - 🌱 Atualmente estou aprendendo **Python juntamente com IA generativa**
 
-- 👨‍💻 Recentemente pude desenvolver um projeto em análise de dados. [Boston Airbnb Análise](https://docs.google.com/presentation/d/1aWGI1TuWfdvh-vXtMvt2BWFfBbqf128HZ6QN7LVYiog/edit?usp=share_link)
+- 👨‍💻 Projeto em análise de dados. [Boston Airbnb Análise](https://docs.google.com/presentation/d/1aWGI1TuWfdvh-vXtMvt2BWFfBbqf128HZ6QN7LVYiog/edit?usp=share_link)
 
-- 💬 Me pergunte sobre **SQL, Tableau e Google Sheets**
-
-- 📫 Você me acha através do e-mail **gui_rla@hotmail.com**
+- 📫 Você me acha através do e-mail **guilhermerusso676@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
