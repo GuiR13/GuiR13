@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo  Guilherme Russo</h1>
-<h3 align="center">Procurando sempre se desenvolver</h3>
+<h3 align="center">Procurando sempre me desenvolver</h3>
 
 - 🌱 Atualmente estou aprendendo **Python juntamente com IA generativa**
 
